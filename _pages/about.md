@@ -12,26 +12,26 @@ redirect_from:
 
 I am **Junteng Liu**, a first-year PhD candidate at the **HKUST NLP Group**. I am pursuing a **Ph.D. in Computer Science (2024-Present)** at the **Hong Kong University of Science and Technology (HKUST)**, advised by **Professor Junxian He**. I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024, where I completed my **B.Eng. (2020-2024)**.
 
-Research focuses on **natural language processing** and **machine learning**. My research interests include **LLM Reasoning and Reinforcement Learning**, **Hallucination in Vision-Language Models (VLM)**, and **LLM Truthfulness and Interpretability**.
+Research focuses on **natural language processing** and **machine learning**. Research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
 
 I am currently a **Research Intern at MINIMAX (February 2025 - Present)**.
 
 ### Education
 
-- **Ph.D. in Computer Science (2024-Present)**, Hong Kong University of Science and Technology
-  - First-year PhD candidate, HKUST NLP Group.
+- Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology
+  - First-year PhD candidate at HKUST NLP Group.
   - Ph.D. supervisor: Professor Junxian He.
   - Professor Junxian He leads the HKUST NLP Group and previously advised me during my undergraduate studies at SJTU.
-- **B.Eng. (2020-2024)**, Shanghai Jiao Tong University
-  - Graduated in June 2024.
+- B.Eng. (2020-2024) at Shanghai Jiao Tong University
+  - Graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
   - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
 
 ### Research Experience
 
-- **Research Intern, MINIMAX** — February 2025 - Present.
-- **Research Intern, Tencent WXG** — June 2024 - September 2024.
+- Research Intern at MINIMAX (February 2025 - Present)
+- Research Intern at Tencent WXG (June 2024 - September 2024)
   - Advised by Zifei Shan (Tencent WXG).
-- **Research Intern, Shanghai AI Lab** — June 2023 - December 2023.
+- Research Intern at Shanghai AI Lab (June 2023 - December 2023)
   - Advised by Prof. Yu Cheng (Shanghai AI Lab).
 
 ### Research Interests
@@ -56,15 +56,15 @@ The following publications are also listed on the [Publications]({{ base_path }}
 
 1. **[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond]({{ base_path }}/publication/synlogic/)**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.  
-   *arXiv*, 2025. **First author.** Code available on GitHub.
+   *arXiv*, 2025. **First author: Junteng Liu.** Code available on GitHub.
 
 2. **[On the Perception Bottleneck of VLMs for Chart Understanding]({{ base_path }}/publication/perception-bottleneck-vlms/)**  
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.  
-   *arXiv*, 2025. **First author.** GitHub code repository: **Vision4Chart**.
+   *arXiv*, 2025. **First author: Junteng Liu.** GitHub code repository: **Vision4Chart**.
 
 3. **[On the Universal Truthfulness Hyperplane Inside LLMs]({{ base_path }}/publication/universal-truthfulness-hyperplane/)**  
    **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He.  
-   *EMNLP 2024*, 2024. **First author.** GitHub code repository: **Universal_Truthfulness_Hyperplane**.
+   *EMNLP 2024*, 2024. **First author: Junteng Liu.** GitHub code repository: **Universal_Truthfulness_Hyperplane**.
 
 4. **[In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation]({{ base_path }}/publication/in-context-sharpness/)**  
    Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.  
@@ -80,7 +80,7 @@ The following publications are also listed on the [Publications]({{ base_path }}
 
 ### Contact
 
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
+- Email: jliugi@connect.ust.hk
+- GitHub: Vicent0205 (https://github.com/Vicent0205)
+- Google Scholar profile: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+- X (Twitter) account: @junteng88716710 (https://twitter.com/junteng88716710)
