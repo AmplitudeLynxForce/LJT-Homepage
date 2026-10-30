@@ -10,28 +10,28 @@ redirect_from:
 
 {% include base_path %}
 
-I am **Junteng Liu**, a first-year PhD candidate at the **HKUST NLP Group**. I am pursuing a **Ph.D. in Computer Science** at the **Hong Kong University of Science and Technology (HKUST)** from 2024 to present, advised by **Professor Junxian He**. I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024, where I completed my **B.Eng. (2020–2024)**. I received the **Zhiyuan Honor Scholarship** at SJTU.
+I am **Junteng Liu**, a first-year PhD candidate at the **HKUST NLP Group**. I am pursuing a **Ph.D. in Computer Science (2024-Present)** at the **Hong Kong University of Science and Technology (HKUST)**, advised by **Professor Junxian He**. I graduated from **Shanghai Jiao Tong University (SJTU)** in June 2024, where I completed my **B.Eng. (2020-2024)**.
 
-My research focuses on **natural language processing** and **machine learning**. My research interests include **LLM reasoning and reinforcement learning**, **hallucination in vision-language models (VLM)**, and **LLM truthfulness and interpretability**.
+Research focuses on **natural language processing** and **machine learning**. My research interests include **LLM Reasoning and Reinforcement Learning**, **Hallucination in Vision-Language Models (VLM)**, and **LLM Truthfulness and Interpretability**.
 
-I am currently a **Research Intern at MINIMAX** (February 2025 – Present).
+I am currently a **Research Intern at MINIMAX (February 2025 - Present)**.
 
 ### Education
 
-- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 – Present
+- **Ph.D. in Computer Science (2024-Present)**, Hong Kong University of Science and Technology
   - First-year PhD candidate, HKUST NLP Group.
   - Ph.D. supervisor: Professor Junxian He.
   - Professor Junxian He leads the HKUST NLP Group and previously advised me during my undergraduate studies at SJTU.
-- **B.Eng.**, Shanghai Jiao Tong University, 2020 – 2024
+- **B.Eng. (2020-2024)**, Shanghai Jiao Tong University
   - Graduated in June 2024.
   - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
 
 ### Research Experience
 
-- **Research Intern, MINIMAX** — February 2025 – Present.
-- **Research Intern, Tencent WXG** — June 2024 – September 2024.
+- **Research Intern, MINIMAX** — February 2025 - Present.
+- **Research Intern, Tencent WXG** — June 2024 - September 2024.
   - Advised by Zifei Shan (Tencent WXG).
-- **Research Intern, Shanghai AI Lab** — June 2023 – December 2023.
+- **Research Intern, Shanghai AI Lab** — June 2023 - December 2023.
   - Advised by Prof. Yu Cheng (Shanghai AI Lab).
 
 ### Research Interests
@@ -44,9 +44,11 @@ I am currently a **Research Intern at MINIMAX** (February 2025 – Present).
 
 - Natural Language Processing (NLP)
 - Machine Learning (ML)
-- LLM reasoning and reinforcement learning
+- LLM reasoning
+- Reinforcement learning
 - Hallucination in vision-language models (VLM)
-- LLM truthfulness and interpretability
+- LLM truthfulness
+- Interpretability
 
 ### Publications
 
@@ -75,10 +77,6 @@ The following publications are also listed on the [Publications]({{ base_path }}
 6. **[Composing Parameter-Efficient Modules with Arithmetic Operations]({{ base_path }}/publication/composing-parameter-efficient-modules/)**  
    Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He.  
    *NeurIPS 2023*, 2023.
-
-### Honors
-
-- **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University.
 
 ### Contact
 
